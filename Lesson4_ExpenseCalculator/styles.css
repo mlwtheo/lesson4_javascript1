@@ -188,7 +188,7 @@ textarea {
     line-height: 200%;
     font-size: 20px;
   }
-#shelterInput, #foodInput, #householdInput, #otherInput, #transportationInput {
+#shelterInput, #foodInput, #householdInput, #miscellaneousInput, #transportationInput {
   width: 5em;
   position: absolute;
   right: 80px;
